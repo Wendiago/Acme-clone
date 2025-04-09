@@ -1,0 +1,1 @@
+This is an acme clone project for DevSamurai interview.
